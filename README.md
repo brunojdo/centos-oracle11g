@@ -5,8 +5,6 @@ Oracle XE 11g on CentOS 7
 
 Oracle Express Edition 11g Release 2 on CentOS 7
 
-_Based on wnameless/oracle-xe-11g/ docker image_ 
-
 This **Dockerfile** is a [trusted build](https://registry.hub.docker.com/u/brunodias20/oracle-11g_debian/) of [Docker Registry](https://registry.hub.docker.com/).
 
 ### Installation(with CentOS 7)
